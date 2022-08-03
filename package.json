@@ -2,7 +2,7 @@
   "name": "jest-another-rpg",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/va-lopez/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^28.1.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
